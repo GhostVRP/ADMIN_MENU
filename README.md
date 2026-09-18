@@ -1,5 +1,7 @@
 # 🛠️ GhostV ADMIN MENU
 
+Version 1.0.0
+
 Ein performantes, modernes und vollständig framework-unabhängiges (**Standalone**) Admin-Menü für FiveM-Server. Entwickelt von **GhostV - HugoHD** für maximale Effizienz, hohe Anpassungsfähigkeit und eine intuitive Benutzeroberfläche.
 
 ## ✨ Features
