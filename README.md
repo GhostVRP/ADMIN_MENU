@@ -41,7 +41,7 @@ Ein performantes, modernes und vollständig framework-unabhängiges (**Standalon
 3. **Server.cfg konfigurieren:** Füge die Ressource zu deiner `server.cfg` hinzu:
 
    ```
-   ensure ghostv_admin
+   ensure GV_ADMIN_MENU
    
    ```
 
